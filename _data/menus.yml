@@ -1,0 +1,5 @@
+---
+navigation:
+- url: google.com
+  weight: 1
+  title: link novo
